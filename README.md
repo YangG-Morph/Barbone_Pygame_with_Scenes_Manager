@@ -1,2 +1,2 @@
 # Barbone_Pygame
-Barbones with Scenes
+Barbones Pygame with Scenes Manager
